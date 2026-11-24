@@ -10,9 +10,9 @@ ICL email address `jurtasun@ic.ac.uk`
 
 ### Chapter 1. What is learning?
 
-- Introduction to information theory.
-- Quantify the accuracy and error of predictions.
-- The loss function and some examples.
-    - Regression: fit a line to gene expression vs stimulus.
-    - Classification: identify an image as a cat or a dog.
-- Extra: KNN, k-means, PCA and Q-learning.
+- Foundations of learning and information theory.
+- Regression vs classification, continous vs categorical and logistic.
+- Example of regression problem, the fit: find the best model explaining gene expression vs stimulus.
+- Example of classification problem: identify an image as a cat or a dog.
+- The loss function: compare the output of a model with the label.
+- Extra: KNN, k-means, PCA and Q-learning, examples of supervised, unsupervised and reinforcement learning.
